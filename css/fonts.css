@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,700;1,400&display=swap');
+@font-face {
+    font-family: "DINPro";
+    src: url("../fonts/DINPro-Bold.woff2") format("woff2"),url("../fonts/DINPro-Bold.woff") format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: "DINPro";
+    src: url("../fonts/DINPro-Medium.woff2") format("woff2"),url("../fonts/DINPro-Medium.woff") format("woff");
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "DINPro";
+    src: url("../fonts/DINPro-Italic.woff2") format("woff2"),url("../fonts/DINPro-Italic.woff") format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: italic;
+}
